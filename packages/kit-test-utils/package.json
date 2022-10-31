@@ -1,0 +1,29 @@
+{
+  "name": "kit-test-utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "han.jiao <han.jiao@qunar.com>",
+  "homepage": "https://github.com/jh8w8m/kit-test#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jh8w8m/kit-test.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/kit-test-utils.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/jh8w8m/kit-test/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
