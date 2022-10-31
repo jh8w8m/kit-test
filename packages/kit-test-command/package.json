@@ -1,8 +1,8 @@
 {
-  "name": "kit-test-utils",
+  "name": "kit-test-command",
   "version": "0.0.1",
   "description": "> TODO: description",
-  "author": "jh8w8m",
+  "author": "han.jiao <han.jiao@qunar.com>",
   "homepage": "https://github.com/jh8w8m/kit-test#readme",
   "license": "ISC",
   "main": "index.js",
@@ -18,17 +18,12 @@
     "url": "git+https://github.com/jh8w8m/kit-test.git"
   },
   "scripts": {
-    "test": "node ./__tests__/kit-test-utils.test.js"
+    "test": "node ./__tests__/kit-test-command.test.js"
   },
   "bugs": {
     "url": "https://github.com/jh8w8m/kit-test/issues"
   },
   "dependencies": {
-    "chalk": "^5.1.2",
-    "commander": "^9.4.1",
-    "cross-spawn": "^7.0.3",
-    "fs-extra": "^10.1.0",
-    "lodash": "^4.17.21",
-    "semver": "^7.3.8"
+    "kit-test-utils": "^0.0.1"
   }
 }

@@ -1,3 +1,3 @@
-const lodash = require('lodash');
-
-module.exports = lodash.uniq;
+exports.chalk = require('chalk');
+exports.fse = require('fs-extra');
+exports.command = require('command');
