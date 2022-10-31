@@ -1,6 +1,6 @@
 {
   "name": "kit-test-cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "jh8w8m",
   "homepage": "https://github.com/jh8w8m/kit-test#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/jh8w8m/kit-test/issues"
   },
   "dependencies": {
-    "kit-test-utils": "^0.0.0"
+    "kit-test-utils": "^0.0.1"
   }
 }
