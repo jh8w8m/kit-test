@@ -24,6 +24,7 @@
     "url": "https://github.com/jh8w8m/kit-test/issues"
   },
   "dependencies": {
+    "kit-test-command": "^0.0.1",
     "kit-test-utils": "^0.0.1"
   }
 }
